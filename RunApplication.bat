@@ -1,0 +1,3 @@
+@echo off
+cd social_distancing_negligence_detector
+start pythonw WindowApplication.py
